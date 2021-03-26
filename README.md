@@ -21,6 +21,7 @@ Here's the descriptions of some of them:
 * Lava: lava flows like classive MC, big lag
 * my-world: everyone has their own world that grows with REP
 * BetterHelp: /help using minecraft's new chat tooltips
+* WriteMe: command to write text in blocks
 
 ### Jframe java games
 * FlappyBordom: scuffed flappybird
@@ -35,5 +36,3 @@ Here's the descriptions of some of them:
 * GradeUpdate: returned grades from from my high school website
 * Htmlget: Returns html from a webpage
 * Math: Calculate weighted GPA
-* MiniWorld, MyRealmAlpha, MyWorld, YourWorld: 
-WriteMe: command to write text in blocks
