@@ -1,0 +1,74 @@
+name: project2
+version: 1.0
+author: Meatie
+main: me.Meatie.Project2.Main
+commands:
+  createworld:
+    description: World stuff
+    usage: Type /createworld world type
+  world:
+    description: World stuff
+    usage: Type /world world
+  home:
+    description: Home
+    usage: Type /home
+  spawn:
+    description: Spawn
+    usage: Type /spawn
+  privacy:
+    description: Privacy
+    usage: Type /privacy
+  rank:
+    description: Rank
+    usage: Type /rank
+  tp:
+    description: Teleport
+    usage: Type /tp player
+  info:
+    description: Info
+    usage: Type /info
+  help:
+    description: Help
+    usage: Type /help
+  say:
+    description: Say
+    usage: Type /say
+  list:
+    description: List
+    usage: Type /list
+  kick:
+    description: Kick
+    usage: Type /kick
+  ban:
+    description: ban
+    usage: Type /ban
+  save:
+    description: save
+    usage: Type /save
+  killall:
+    description: killall
+    usage: Type /killall
+  repair:
+    description: repair
+    usage: Type /repair
+  fix:
+    description: fix
+    usage: Type /fix
+  gm:
+    description: gm
+    usage: Type /gm
+  i:
+    description: i
+    usage: Type /i
+  heal:
+    description: heal
+    usage: Type /heal
+  hat:
+    description: hat
+    usage: Type /hat
+  top:
+    description: top
+    usage: Type /top
+  ci:
+    description: ci
+    usage: Type /ci

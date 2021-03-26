@@ -1,0 +1,8 @@
+name: WriteMe
+version: 1.0
+author: Meatie
+main: me.Meatie.Writeme.Main
+commands:
+  write:
+    description: Write
+    usage: /write text

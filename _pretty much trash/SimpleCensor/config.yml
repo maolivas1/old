@@ -1,0 +1,199 @@
+#Original Developer: lWarChicken
+#New developer: Meatie
+
+#Show sender filtered messages?
+ShowSenderCensored: false
+#Show sender UN-filtered message with /me? (May look fake if you have formatting plugins)
+CensorMe: true
+#Filter Commands (Some Commands Might Already Be Filtered)
+CensorCommands:
+  - /me 0 false
+  - /msg 1 true
+  - /r 0 true
+  - /tell 1 true
+  - /pm 1 true
+  - /whisper 1 true
+  - /message 1 true
+#How many of the same letter can you type repetitively? (Ex: HIIIIIII Is 7 of the same letter)
+Repeations: 2
+#Fix caps in player user-names?
+CapitalizePlayerNames: false
+#Fix Caps?
+CorrectCaps: true
+#Leave Caps Alone for:
+CapsLeaveAlone:
+  - xd
+  - DX
+  - :D
+  - :p
+  - ;p
+  - :s
+  - :o
+  - ;o
+  - 'd:'
+  - d;
+  - o.o
+  - 0.o
+  - o.0
+  - =d
+  - d=
+  - =p
+  - =o
+  - gg
+  - 'I''m'
+  - 'i '
+  - 'i''ll'
+#Correct Words
+correctwords:
+  - 'im:I''m'
+  - 'i''m:I''m'
+  - i:I
+  - c:see
+  - f:love
+  - k:ok
+  - fak:love
+  - fuk:love
+  - u:you
+  - y:why
+  - 'ma[:map'
+  - sry:sorry
+  - ur:your
+  - 'il:I''ll'
+  - 'i''l:I''ll'
+  - 'i''ll:I''ll'
+  - wat:what
+  - cant:can't
+  - wasnt:wasn't
+  - yh:yeah
+  - dont:don't
+  - fack:love
+  - every1:everyone
+  - evry1:everyone
+  - youre:you're
+  - fuked:loved
+  - suk:suck
+  - fck:love
+  - fuking:loving
+  - fcking:loving
+  - every1:everyone
+  - didnt:didn't
+  - fuc:love
+  - r:are
+  - u:you
+  - any1:anyone
+  - guna:gonna
+  - ive:I've
+  - tht:that
+#Don't replace these words
+exceptions:
+  - grass
+  - lass
+  - assassin
+  - password
+  - compass
+  - mass
+  - village
+  - bass
+  - snigger
+  - assed
+  - flag
+  - pass
+  - father
+  - assum
+  - assault
+  #Sensor these words
+censored:
+  - noob:pro
+  - nub:pro
+  - laggy:funny
+  - faggot:cool guy
+  - fag:cool
+  - fag:pro
+  - fag:bro
+  - vagina:sweets
+  - penis:lollipop
+  - penis:twig
+  - cock:lollipop
+  - cock:twig
+  - rectum:toilet
+  - whore:mum
+  - whore:mother
+  - whore:mummy
+  - fat:large boned
+  - fat:big as me
+  - fat:cute
+  - cunt:sweets
+  - fucking:loving
+  - fuck:love
+  - fuck:fong
+  - fuck:touch me
+  - fuck:rainbows
+  - fuck:unicorns
+  - fuck:darling
+  - rape:fong
+  - rape:touch
+  - rape:tickle
+  - dick:lollipop
+  - dick:twig
+  - slut:my mum
+  - slut:woman
+  - lag:fun
+  - lag:you're a bag
+  - lag:hag
+  - ugly:handsome
+  - bitch:sister
+  - bitch:doggie
+  - bastard:brother
+  - bastard:son
+  - shit:crap
+  - shit:aw man
+  - damn:aw man
+  - asshole:toilet
+  - ass:lips
+  - ass:cutie
+  - ass:doll
+  - horny:stupid
+  - horny:magical
+  - 'a$$:lips'
+  - 'a$$:cutie'
+  - 'a$$:doll'
+  - gay:cute
+  - gay:adorable
+  - gay:happy
+  - rape:make love
+  - rape:touch me
+  - nigger:honorable black man
+  - nigger:cutie
+  - nigga:honorable black man
+  - pussy:my cat
+  - sex:a pet dinosaur
+  - sex:dinner
+  - snatch:steal
+  - homo:happy
+  - homo:crazy
+  - wanker:young man
+  - yolo:punch me
+  - 'y()l():punch me'
+  - swag:money
+  - suck balls:rules my world
+  - fukk:eeeek
+  - fckk:eeeek
+  - fack:dear
+  - feck:dear
+  - punch me you:touch me handsome
+  - '  : '
+  - derp:waa
+  - herp:mummy
+  - touch me:punch me
+  - puss:cat
+  - dumbass:hot stuff
+#Set to 'true' if Conflicts with other plugns
+HideWords: false
+#Use DisplayNames In Chat Instead Of Real Names
+UseDisplayNames: false
+#What priority should the chat event have? 0 = Monitor, 1 = Lowest
+Priority: 0
+#What % Of Caps Should Be Allowed?
+CapsToStrikeAt: 0
+#How Long Can Words Be In All Caps?
+MsgLengthForCaps: 0

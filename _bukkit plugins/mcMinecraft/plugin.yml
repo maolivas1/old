@@ -1,0 +1,14 @@
+name: Stuff
+version: 1.0
+author: Mark
+main: me.Mark.mark.Mark
+commands:
+  buy:
+    description: Buy
+    usage: /buy
+  setvalue:
+    description: Setvalue
+    usage: /setvalue
+  addcmd:
+    description: addcmd
+    usage: /addcmd

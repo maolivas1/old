@@ -1,0 +1,12 @@
+name: MarksThingy
+version: 1.0
+author: Meatie
+main: me.Meatie.Project2.Main
+commands:
+  firework:
+    description: Firework
+    aliases: [fw]
+    usage: /firework player
+  spawn:
+    description: Teleport To World Spawn
+    usage: /spawn

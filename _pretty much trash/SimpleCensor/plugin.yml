@@ -1,0 +1,12 @@
+name: SimpleCensor
+main: me.libraryaddict.Censorship.SimpleCensor
+version: 6.0
+commands:
+  censor:
+permissions:
+  SimpleCensor.ByPass:
+    description: lets a player bypass the censor
+    default: false
+  censor.bypass.filter:
+    description: lets a player bypass filter
+    default: false

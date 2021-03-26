@@ -1,0 +1,29 @@
+name: Stuff
+version: 1.0
+author: Mark
+main: me.Mark.Time.Main
+commands:
+  inspect:
+    description: Inspect
+    usage: /inspect
+  c:
+    description: Inspect
+    usage: /c
+  fw:
+    description: Firework
+    usage: /fw
+  firework:
+    description: Firework
+    usage: /firework
+  buy:
+    description: buy
+    usage: /buy
+  add:
+    description: add
+    usage: /add
+  d:
+    description: d
+    usage: /d
+  spawn:
+    description: spawn
+    usage: /spawn

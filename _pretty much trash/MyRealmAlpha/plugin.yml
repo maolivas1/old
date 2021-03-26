@@ -1,0 +1,8 @@
+name: Stuff
+version: 1.0
+author: Mark
+main: me.Mark.myRealm.Main
+commands:
+  inv:
+    description: Open a inventory of avalible blocks
+    usage: /inv

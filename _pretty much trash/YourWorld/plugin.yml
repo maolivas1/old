@@ -1,0 +1,8 @@
+name: YourWorld
+version: 1.0
+author: Meatie
+main: me.Mark.yourworld.Main
+commands:
+  home:
+    description: Home
+    usage: /home

@@ -1,0 +1,17 @@
+name: project2
+version: 1.0
+author: Meatie
+main: me.Meatie.Project2.Main
+commands:
+  spawn:
+    description: Spawn
+    usage: Type /spawn
+  save:
+    description: save
+    usage: Type /save
+  setwarp:
+    description: setwarp
+    usage: Type /setwarp
+  warp:
+    description: warp
+    usage: Type /warp

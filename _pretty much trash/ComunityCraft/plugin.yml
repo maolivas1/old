@@ -1,0 +1,8 @@
+name: ComunityCraft
+version: 1.0
+author: Mark
+main: me.Mark.comunity.Comunity
+commands:
+  test:
+    description: Test
+    usage: /test

@@ -1,0 +1,44 @@
+name: Stuff
+version: 1.0
+author: Mark
+main: me.Mark.stuff.Main
+commands:
+  help:
+    description: Help
+    usage: /help
+  inspect:
+    description: Inspect
+    usage: /inspect
+  c:
+    description: Inspect
+    usage: /c
+  fw:
+    description: Firework
+    usage: /fw
+  party:
+    description: Party
+    usage: /party
+  buy:
+    description: buy
+    usage: /buy
+  setvalue:
+    description: setvalue
+    usage: /setvalue
+  addcmd:
+    description: addcmd
+    usage: /addcmd
+  restrict:
+    description: restrict
+    usage: /restrict
+  write:
+    description: write
+    usage: /write
+  gen:
+    description: gen
+    usage: /gen
+  mob:
+    description: mob
+    usage: /mob
+  tick:
+    description: tick
+    usage: /tick

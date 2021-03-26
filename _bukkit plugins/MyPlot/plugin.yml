@@ -1,0 +1,75 @@
+name: MyPlot
+version: 1.0
+author: Mark
+main: me.mark.myplot.MyPlot
+commands:
+  expand:
+    description: expand
+    usage: /expand
+  home:
+    description: home
+    usage: /home
+    aliases: [realm]
+  homes:
+    description: home
+    usage: /home
+    aliases: [realms]
+  help:
+    description: help
+    usage: /help
+  rep:
+    description: rep
+    usage: /rep
+  rank:
+    description: rank
+    usage: /rank
+  setspawn:
+    description: setspawn
+    usage: /setspawn
+  list:
+    description: list
+    usage: /list
+  kick:
+    description: kick
+    usage: /kick
+  ban:
+    description: ban
+    usage: /ban
+  unban:
+    description: unban
+    usage: /unban
+  banlist:
+    description: banlist
+    usage: /banlist
+    aliases: [bans]
+  ranks:
+    description: ranks
+    usage: /ranks
+    aliases: [ranklist]
+  wand:
+    description: wand
+    usage: /wand
+  set:
+    description: set
+    usage: /set
+  undo:
+    description: undo
+    usage: /undo
+  pvp:
+    description: pvp
+    usage: /pvp
+  spawn:
+    description: spawn
+    usage: /spawn
+    aliases: [lobby,hub]
+  motd:
+    description: motd
+    usage: /motd
+    aliases: [d]
+  time:
+    description: time
+    usage: /time
+    aliases: [day,night,noon,sunset,midnight]
+  pro:
+    description: pro
+    usage: /pro

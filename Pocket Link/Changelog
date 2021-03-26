@@ -1,0 +1,31 @@
+ChangeLog:
+
+Fixed creative building (no drops)
+
+
+
+Todo:
+
+Disable blocks/mobs that don't exsist in both verisons
+Disable Nether, end (for now)
+Mobs
+Players
+
+Check Sync:
+
+Minecart place
+Minecart break
+Minecart move
+Player join
+Player leave
+Player move
+Player knockback
+Player death
+Player sneak
+Player arm swing (hit and breaking block)
+Mob knockback / damage
+Mob spawn
+Mob death
+Fishing
+Explosions
+Redstone

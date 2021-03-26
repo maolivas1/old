@@ -1,0 +1,17 @@
+name: BetterHelp
+version: 1.0
+author: MarkViews
+main: me.Mark.better.Main
+commands:
+  help:
+    description: List of commands
+    usage: Type /help for a list of commands
+  c:
+    description: Core Inspect
+    usage: Type /c, shortcut for /core inspect
+  inspect:
+    description: Core Inspect
+    usage: Type /c, shortcut for /core inspect
+  spawn:
+    description: Warp to Spawn
+    usage: Type /spawn

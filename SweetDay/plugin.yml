@@ -1,0 +1,20 @@
+name: SweetDay
+version: 1.0
+author: Mark
+main: me.mark.myplot.MyPlot
+commands:
+  help:
+    description: help
+    usage: /help
+  spawn:
+    description: spawn
+    usage: /spawn
+  join:
+    description: join
+    usage: /join
+  leave:
+    description: leave
+    usage: /leave
+  setspawn:
+    description: setspawn
+    usage: /setspawn

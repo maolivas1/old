@@ -1,0 +1,8 @@
+name: SimpleGames
+version: 1.0
+author: Mark
+main: me.Mark.sg.Mark
+commands:
+  sg:
+    description: sg
+    usage: /sg
