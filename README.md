@@ -1,6 +1,7 @@
 # old
 Java projects that I made during high scool and middle school, there's a lot of bad code lol.<br>
 There's more projects in the folders `_bukkit plugins` and `_pretty much trash`<br>
+A lot of the these projects are broken or were never finished. I just posted this to show people my old code but feel free to use it if you can get it working.<br>
 <br>
 Here's the descriptions of some of them:
 ### Servers
