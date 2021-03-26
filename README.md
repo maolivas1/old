@@ -12,10 +12,10 @@ Here's the descriptions of some of them:
 * IFunnyGet: Server that returned the latest ifunny memes
 * PasswordGen: Server for a funny password generator I made that uses america's debt and the phase of the moon in it's calculation.
 * VideoStream: Server to sync video playback on a webpage
-* DJServer: Server for a plug.dj type website I made (I made this when plug.js closed down)
+* DJServer: Server for a plug.dj type website
 
 ### Minecraft
-* PocketLink, Pocket Link PC: Bukkit / Pocket Link plugins to prove cross platform was possible.
+* PocketLink, Pocket Link PC: Bukkit / PocketMine plugins to prove cross platform was possible.
 * SweetDay: minigame like Nintendoland's "Sweet day" minigame.
 * mc-minecraft: buy command and some others
 * Lava: lava flows like classive MC, big lag
